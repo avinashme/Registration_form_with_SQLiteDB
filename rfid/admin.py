@@ -3,7 +3,7 @@ from .models import RegistrationDetails
 
 
 class RegistrationAdmin(admin.ModelAdmin):
-    list_display = ('first_name', 'last_name', 'email', 'mobile_number', 'gender')
+    list_display = ('id', 'first_name', 'last_name', 'email', 'mobile_number', 'gender')
 
 
 admin.site.register(RegistrationDetails, RegistrationAdmin)
