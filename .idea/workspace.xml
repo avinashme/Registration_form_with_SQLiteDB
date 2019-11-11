@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eb40aa1a-3e9f-413a-ae2f-f9ef20596666" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyshop/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rfid/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/rfid/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rfid/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/rfid/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +23,7 @@
   <component name="ProjectId" id="1SVh0MOyISbzXkFkrVXaMHo82TN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/rfid/static/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Certificate_Download" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
